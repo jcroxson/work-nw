@@ -7,6 +7,8 @@ Updates to the README.
 This is a code block.
 ```
 
+`This is a code excerpt.`
+
 > This is quoted text.
 
 1. This is a list
