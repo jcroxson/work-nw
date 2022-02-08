@@ -27,7 +27,7 @@ This is where we will need to run the ML algorithm to recode the t3 df with our 
 t4 = pd.concat([t1, t3], axis = 0)
 
 #want to add a column that indicates of it's a new entry (Type = New, Old)
-
+#ADDED SOME COMMENTS
 #drop duplicate values while retaining the first file
 #DataFrame.drop_duplicates(self, subset=None, keep='first', inplace=False)
 #(columns to use, keep first, last, or drop all duplicates, drop dulicates in place or return copies)
